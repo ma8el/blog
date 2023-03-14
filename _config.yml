@@ -22,7 +22,7 @@ title: m4k's Blog
 website: https://google.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog about Software Engineering, Physics and Philosophy
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://ma8el.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
 

@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: m4k's Blog
-website: https://google.com
+website: https://hello.m4k.site
 description: >- # this means to ignore newlines until "baseurl:"
   Blog about Software Engineering, Physics and Philosophy
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -32,7 +32,7 @@ minima:
   skin: auto
   social_links:
   - { platform: github, user_url: "https://github.com/ma8el" }
-  - { platform: linkedin, user_url: "https://linkedin.com"}
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/markus-kurbel-78a32126a"}
 
 plugins:
   - jekyll-feed
